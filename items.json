@@ -1,0 +1,10 @@
+ {
+          "name":"Bread",
+          "imageurl":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/homemade-bread-horizontal-1547759080.jpg?crop=0.671xw:1.00xh;0.0801xw,0&resize=980:*",
+          "price":30
+        },
+         {
+          "name":"Brown-Bread",
+          "imageurl":"https://dailyvery.in/welcome/wp-content/uploads/2019/11/brown-bread-600x625.jpg",
+          "price":35
+        }
