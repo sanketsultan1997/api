@@ -1,17 +1,17 @@
 [
   {
-    "category": "All Category"
+    "name": "All Category"
   },
   {
-    "category": "Bread"
+    "name": "Bread"
   },
   {
-    "category": "Chocolate"
+    "name": "Chocolate"
   },
   {
-    "category": "Fruits"
+    "name": "Fruits"
   },
   {
-    "category": "Vegitables"
+    "name": "Vegitables"
   }
  ]
