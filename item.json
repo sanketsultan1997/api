@@ -65,19 +65,19 @@
         {
           "name":"tomatoes",
           "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmdvgW9-SsgX9tTKgAwhSth4iYP_6M-RvzKQ&usqp=CAU",
-          "price":80
+          "price":80,
           "category":"Vegitables"
         },
         {
           "name":"potato",
           "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6csRU2iJ46YpSVqnZsaskw3eH2Cjb8nZJKw&usqp=CAU",
-          "price":40
+          "price":40,
           "category":"Vegitables"
         },
         {
           "name":"cabbage",
           "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYB69ipIBlK8oY0HSgtJ-dfwM6LIjEe0m1cQ&usqp=CAU",
-          "price":30
+          "price":30,
           "category":"Vegitables"
         }
     ]
